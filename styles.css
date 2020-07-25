@@ -40,15 +40,15 @@ button {
 }
 
 button:hover{
-    background: blue;
+    background: #73E9FF;
 }
 
-.btn-yellow {
+.btn-green {
     background: #27EAAF;
     color: white;
 }
 
-.btn-grey {
+.btn-blue {
     background: #5294BC;
 }
 
