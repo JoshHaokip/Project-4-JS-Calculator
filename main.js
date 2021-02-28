@@ -15,18 +15,6 @@ for (let i = 0; i < btns.length; i++) {
     })
 }
 
-
-
-/*btns.forEach(btns.addEventListener('click', function () {
-
-    let number = btns.getAttribute('data-num');
-        
-    screen.value += number
-
-
-}))*/
-
-
 equal.addEventListener('click', function () {
 
     if (screen.value === '' ){

@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "javascript calculator project w/ testing",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshHaokip/calculator.git"
+  },
+  "author": "Josh Haokip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshHaokip/calculator/issues"
+  },
+  "homepage": "https://github.com/JoshHaokip/calculator#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
